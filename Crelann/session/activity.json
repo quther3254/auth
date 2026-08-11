@@ -1,0 +1,26 @@
+{
+    "participant_68c77351c2d295.70210248": {
+        "last_seen": 1757901773,
+        "current_page": "loading",
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"
+    },
+    "participant_68c77448aca781.19725258": {
+        "last_seen": 1757912809,
+        "current_page": "loading",
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko\/20100101 Firefox\/143.0"
+    },
+    "participant_695e87a4af6300.84940598": {
+        "last_seen": 1767804362,
+        "current_page": "loading",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    "participant_695e8596e63af6.78040738": {
+        "last_seen": 1767802894,
+        "current_page": "loading",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    }
+}
